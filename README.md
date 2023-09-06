@@ -16,9 +16,20 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+<div align="center"><img src="https://komarev.com/ghpvc/?username=arifshakilnobin&label=Profile%20views&color=0e75b6&style=flat" alt="arifshakilnobin" />
 </div>
+
+###
+
+
+###
+
+
+<p></p>
+
+<p>&nbsp;</p>
+
+<p></p>
 
 ###
 
@@ -77,12 +88,14 @@
 
 ###
 
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arifshakilnobin&show_icons=true&locale=en&layout=compact" alt="arifshakilnobin" />
 
-###
+<img src="https://github-readme-stats.vercel.app/api?username=arifshakilnobin&show_icons=true&locale=en" alt="arifshakilnobin" />
+
+</div>
