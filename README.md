@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi 👋, I'm Md.Arif Shakil Nobin</h1>
 
 ###
 
@@ -26,7 +26,15 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+🔭 I’m currently working on **JPA Hibernate and spring data**
+
+🌱 I’m currently learning **Spring security, JPA, Hibernate, Java Advance**
+
+💬 Ask me about **Java, Angular**
+
+📫 How to reach me **Arifshakil28@gmail.com**
+
+⚡ Fun fact **I think I am funny.**
 
 ###
 
