@@ -17,7 +17,7 @@
   <a href="https://linkedin.com/in/nobin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=arifshakilnobin&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=arifshakilnobin&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> -->
 </div>
 
 ---
