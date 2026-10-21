@@ -1,10 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,6,8&height=140&section=header&text=Md.%20Arif%20Shakil%20Nobin&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=180&section=header&text=Md.%20Arif%20Shakil%20Nobin&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
-<h3 align="center">
-  🚀 Java Full Stack & AI Backend Engineer | Microservices, Distributed Systems & RAG Architect
-</h3>
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2EA44F&center=true&vcenter=true&width=650&lines=Java+Full+Stack+%26+AI+Backend+Engineer;Microservices+%26+Distributed+Systems+Specialist;Spring+AI+%26+RAG+Architect;Event-Driven+Architecture+(Apache+Kafka)" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2EA44F&center=true&vcenter=true&width=650&lines=Java+Full+Stack+%26+AI+Backend+Engineer;Microservices+%26+Distributed+Systems+Specialist;Spring+AI+%26+RAG+Architect;Event-Driven+Architecture+(Apache+Kafka)" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://md-arif-shakil-nobin.vercel.app/" target="_blank">
@@ -13,7 +17,7 @@
   <a href="https://linkedin.com/in/nobin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ArifShakilNobin&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=arifshakilnobin&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
@@ -50,18 +54,14 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=ArifShakilNobin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifShakilNobin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=arifshakilnobin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifshakilnobin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
     </tr>
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArifShakilNobin&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArifShakilNobin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifshakilnobin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
